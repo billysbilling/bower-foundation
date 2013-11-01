@@ -1,14 +1,7 @@
 {
   "name": "bower-foundation",
-  "version": "0.0.1",
+  "version": "4.3.2",
   "homepage": "https://github.com/billysbilling/bower-foundation",
-  "main": "src/js/REPLACE-ME.js",
-  "billy-builder": {
-    "include": [
-      "src/js",
-      "src/templates"
-    ]
-  },
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -17,8 +10,5 @@
     "tests",
     "Gruntfile.js",
     "package.json"
-  ],
-  "dependencies": {
-    "ember": "billysbilling/bower-ember#master"
-  }
+  ]
 }
